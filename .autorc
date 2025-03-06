@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "yousefalagel",
+  "repo": "container-4aj8suw",
+  "name": "yousefalagel",
+  "email": "yousefalagel@gmail.com",
+}
